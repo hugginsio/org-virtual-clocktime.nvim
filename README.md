@@ -21,7 +21,7 @@ In this example, we're using [lazy.nvim](https://github.com/folke/lazy.nvim) as 
   cmd = "Org",
   dependencies = {
     {
-      "productivitykit/org-virtual-clocktime.nvim"
+      "hugginsio/org-virtual-clocktime.nvim"
     }
   }
 }
